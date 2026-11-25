@@ -8,5 +8,5 @@ rose 9.6%. I separated the effects of usage and price, estimated how much of
 the usage decline was associated with weather, and compared spending with
 published local benchmarks.
 
-- [Read the report (Word)](./DT%20Bellevue%20Apartment%20Utilities%20Cost%20Analysis.docx)
-- [Explore the analysis and charts (Python notebook)](Bellevue_Utilities_Analysis.ipynb)
+- [Read the full report (Word)](./DT%20Bellevue%20Apartment%20Utilities%20Cost%20Analysis.docx)
+- [Explore the python notebook](./DT%20Bellevue%20Apartment%20Utilities%20Cost%20Analysis.ipynb)
